@@ -25,5 +25,5 @@ Este repositorio contiene el código y los recursos desarrollados para la materi
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/nombre-repositorio.git
-   cd nombre-repositorio
+   git clone https://github.com/Miller2915/DespliegeSoluconesAnalitica.git
+   cd DespliegeSoluconesAnalitica
